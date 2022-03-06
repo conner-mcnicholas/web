@@ -1,4 +1,4 @@
 # homepage
 Personal website:
 
-![alt text](https://github.com/conner-mcnicholas/homepage/blob/main/consite.png?raw=true)
+![alt text](https://github.com/conner-mcnicholas/homepage/blob/gh-pages/consite.png?raw=true)
